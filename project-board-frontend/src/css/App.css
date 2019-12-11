@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px 0 0;
+}
+
+.card {
+  padding: 20px;
+}
+
+.card-title {
+  color: white;
+  font-weight: bold;
+}
+
+.logo {
+  height: 12vmin;
+}
+
+.completed-list {
+  color: grey;
+  /* text-decoration: line-through; */
+}
